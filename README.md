@@ -8,7 +8,7 @@ MediMinder App that helps patients reminder them of medication.
 there are two users:
 
 - doctor
-  -Register as a doctor
+  - Register as a doctor
   -Show medicine list
   -Edit medicine list (Add , Delete)
   -Edit a specific medicine
