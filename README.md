@@ -22,5 +22,5 @@ there are two users:
     -Add doctor to my list (as a supervisor).
     -Edit doctors list (Add , Delete).
 ## ScreenShot
-<img src="photo/register.png" width="250" height="500"/> <img src="photo/login.png" width="250" height="500"/> <img src="photo/drawer.png" width="250" height="500"/>
+<img src="photo/register.png" width="250" height="500"/> <img src="photo/login.png" width="250" height="500"/> <img src="photo/drawer.jpg" width="250" height="500"/>
 <img src="photo/add new medicine.png" width="250" height="500"/> <img src="photo/my medicine.png" width="250" height="500"/> <img src="photo/add doctor.png" width="250" height="500"/>
