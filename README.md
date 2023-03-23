@@ -6,6 +6,7 @@ MediMinder App that helps patients reminder them of medication.
 
 ## Services 
 there are two users:
+
 - doctor
   -Register as a doctor
   -Show medicine list
